@@ -1,4 +1,4 @@
-const apiKey = "82ebdd1365654a1ba1b164203250903";
+const apiKey = "Your_api_key";
 const apiUrl = "https://api.weatherapi.com/v1/current.json?aqi=no&units=metric&q=";
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
